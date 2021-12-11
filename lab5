@@ -1,0 +1,69 @@
+<html>
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta charset="utf-8">
+    <title> UAC DANKRID</title>
+
+    <style>
+        div {
+          background-image: url('Carbon Fiber Light.png');
+        }
+        </style>
+
+    </head>
+
+
+    <body bgcolor="1F1F1F">
+        <font face="Calibri" size="14px" color="#E9E9E9">
+            <div><center>
+                <div style="width:120px; height: 120px; background: #1F1F1F; "> </div>
+                <p style=" font-size: 14px;"> RGB(31,31,31)</p>
+                <div style="width:120px; height: 120px; background: #C80002; "> </div>
+                <p style=" font-size: 14px;"> RGB(200,0,2)</p>
+                <div style="width:120px; height: 120px; background: #E9E9E9; "> </div>
+                <p style=" font-size: 14px;"> RGB(233,233,233)</p>
+            </center></div>
+
+<div><center>
+<p>Обрані кольори добре балансують між собою
+та й просто приємні на око.
+На сайті буде переважати темно-сіра палітра,
+та все-таки обидва інші кольори теж будуть, але
+в більшості в якості тексту.</p>
+
+<p>Що означає UAC DANKRID?</p>
+<p>UAC - UNIQUE AMBIENT CODING. Також у серії відеоігор doom є така компанія, як UAC - Union Aerospace Corporation, тому це свого роду, скажем так, “отсылка”.</p>
+<p>Dankrid - псевдонім/нікнейм засновника компанії.</p>
+
+<p>логотип створено з таким дизайном тому, що наші програмісти можуть кодувати таку чєртовщину, що буде працювати за будь-яких умов :)</p>
+
+
+<p>Шрифти:</p>
+<p>заголовки:</p>
+Arial</p>
+
+<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+
+    <p>АБВГҐДЕЁЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЪЫЬЮЯ</p>
+
+
+<p>Основний текст:
+Calibri</p>
+
+<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+
+<p>АБВГҐДЕЁЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЪЫЬЮЯ</p></center>
+</div>
+        
+        
+        <div>
+            
+            <center><img src="gif-logo-2k.gif" alt="" style='height: 60%; width: 60%; object-fit: contain'/></center>
+            <center><img src="Logo 1.png" alt="" style='height: 60%; width: 60%; object-fit: contain'/></center>
+            <center><img src="Logo 2.png" alt="" style='height: 60%; width: 60%; object-fit: contain'/></center>
+            <center><img src="Logo 3.png" alt="" style='height: 60%; width: 60%; object-fit: contain'/></center>
+            <center><img src="gif.gif" alt="" style='height: 60%; width: 60%; object-fit: contain'/></center>
+            <div><center>Photoshop намертво відмовлявся виконувати коригування слоїв (те, що відкривається з Ctrl+B), незавжаючи на те, що режим кольорів був RGB.</center></div>
+        </div>
+    </font>
+    </body>
